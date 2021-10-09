@@ -1,0 +1,38 @@
+body {
+  background-color: rgb(25,25,25);
+  background-image: url("https://cdn.wallpapersafari.com/51/65/HCQj3O.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+main {
+  background-color: rgb(25,25,25);
+  color: rgb(255,255,255);
+}
+
+ul {
+  list-style-image: url('https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/24x24/plain/skull.png');
+}
+
+.Subject {
+  width: 50%;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.Lantern {
+  height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Border {
+border-image-slice: 13 13 13 13;
+border-image-width: 13px 13px 13px 13px;
+border-image-outset: 13px 13px 13px 13px;
+border-image-repeat: repeat repeat;
+border-image-source: url("https://mdn.github.io/css-examples/tools/border-image-generator/border-image-4.png");
+border-style: solid; 
+}
