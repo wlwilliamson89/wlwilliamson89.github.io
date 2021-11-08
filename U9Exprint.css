@@ -1,0 +1,43 @@
+img {display: none;}
+
+ul {display: none;}
+
+body {
+font: 12pt Georgia, "Times New Roman", Times, serif;
+columns: auto;
+}
+
+h1 {
+font-size: 24pt;
+}
+
+h2 {
+font-size: 20pt;
+}
+
+h3 {
+font-size: 16pt;
+}
+
+a {
+color: #000;
+text-decoration: none;
+}
+
+@page {
+margin: 1in;
+}
+
+.PIN_1616988046784_repin {
+  display: none;
+}
+.PIN_1616988046784_title {
+  display: none;
+}
+.PIN_1616988046784_topline {
+  display: none;
+}
+
+blockquote {
+  margin-left: 0;
+}
